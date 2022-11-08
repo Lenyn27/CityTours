@@ -22,31 +22,15 @@
         </style>
     </head>
     <body>
-        <h1>hola</h1>
-        <nav class="navbar navbar-expand-lg bg-light">
-            <div class="container-fluid">
-                <a class="navbar-brand" href="#">Navbar</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
-                    </li>
-                    <li class="nav-item">
-                    <a class="nav-link" href="#">Features</a>
-                    </li>
-                    <li class="nav-item">
-                    <a class="nav-link" href="#">Pricing</a>
-                    </li>
-                    <li class="nav-item">
-                    <a class="nav-link disabled">Disabled</a>
-                    </li>
+        <header>
+            <div class="slider">
+                <ul>
+                    <li><img src="https://static.metrojourneys.com/wp-content/uploads/2019/07/machu-picchu-peru-tours.jpg"> </li>
+                    <li><img src="https://sites.google.com/site/idelise66/_/rsrc/1423129787452/natuur/the-zhangye-danxia-landform/China%2C%20Zhangye%20Danxia%20Landform.jpg"> </li>
+                    <li><img src="https://www.peru.travel/Contenido/AcercaDePeru/Imagen/pe/11/1.3/Principal/costa-verde-lima.jpg"> </li>
+                    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima.jpg/2560px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima.jpg"> </li>
                 </ul>
-                </div>
             </div>
-        </nav>
-
+        </header>
     </body>
 </html>
