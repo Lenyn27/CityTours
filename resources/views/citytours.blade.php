@@ -21,18 +21,18 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">OPCIONES</a>
                     <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Lugares de Viaje</a></li>
-                    <li><a class="dropdown-item" href="#">Hoteles</a></li>
-                    <li><a class="dropdown-item" href="#">Contactos</a></li>
+                    <li><a class="dropdown-item" href="http://localhost:90/Trabajofinal/resources/views/lugares.blade.php">Lugares a donde Viajar</a></li>
+                    <li><a class="dropdown-item" href="http://localhost:90/Trabajofinal/resources/views/hoteles.blade.php">Hoteles</a></li>
+                    <li><a class="dropdown-item" href="http://localhost:90/Trabajofinal/resources/views/contactos.blade.php">Contactos</a></li>
                     <li><hr class="dropdown-divider"></li>
-                    <li><a class="dropdown-item" href="#">Has tu planes ahora!</a></li>
+                    <li><a class="dropdown-item" href="http://localhost:90/Trabajofinal/resources/views/tusplanes.blade.php">Has tu planes ahora!</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">VIDEO</a>
+                    <a class="nav-link" href="https://www.youtube.com/watch?v=9vgm-9kde5E">VIDEO</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">COMENTARIOS</a>
+                    <a class="nav-link" href="http://localhost:90/Trabajofinal/resources/views/comentarios.blade.php">COMENTARIOS</a>
                 </li>
                 </ul>
     <header>
