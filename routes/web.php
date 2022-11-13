@@ -36,3 +36,11 @@ Route::get('contactos', function () {
 Route::get('comentarios', function () {
     return view('comentarios');
 });
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
